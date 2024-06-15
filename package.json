@@ -1,13 +1,8 @@
 {
   "name": "qvarch",
   "private": true,
-  "version": "1.0.0-beta1",
+  "version": "1.0.0-alpha.1",
   "workspaces": [
-    "impress/*",
-    "spaces/*",
-    "humhub/*"
-  ],
-  "devDependencies": {
-    "semantic-release": "^24.0.0"
-  }
+    "packages/*"
+  ]
 }
